@@ -1,4 +1,9 @@
 
+[![IMG-2723.jpg](https://i.postimg.cc/FzqK7Dv1/IMG-2723.jpg)](https://postimg.cc/64rKPVyN)
+
+
+
+
 # GamerHub - Социальная сеть для геймеров
 
 ## Описание проекта
@@ -68,3 +73,6 @@ npm run dev
 bash
 cd client
 npm start
+
+
+[![IMG-2724.jpg](https://i.postimg.cc/bvJLSwz2/IMG-2724.jpg)](https://postimg.cc/v4J5pMxQ)
