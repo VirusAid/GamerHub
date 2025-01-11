@@ -39,7 +39,7 @@ GamerHub - это социальная платформа для геймеро�
 
 1. Клонируйте репозиторий:
 bash
-git clone https://github.com/your-username/gamerhub.git
+git clone https://github.com/VirusAid/GamerHub.git
 cd gamerhub
 2. Установите зависимости для сервера:
 bash
