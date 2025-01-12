@@ -58,9 +58,6 @@ npm install
 
 4. Создайте файл .env в папке server:
 env
-MONGODB_URI=your_mongodb_uri
-JWT_SECRET=your_jwt_secret
-PORT=5000
 
 ### Запуск проекта
 
